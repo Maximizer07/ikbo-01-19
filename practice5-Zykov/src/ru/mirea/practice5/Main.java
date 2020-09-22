@@ -35,7 +35,7 @@ public class Main{
         Scanner in = new Scanner(System.in);
         Nine nine = new Nine();
         System.out.println(Ten(653128,0));
-        //System.out.println(Eleven());
-        System.out.println(Nine(2,5));
+        System.out.println(Eleven());
+        System.out.println(Nine(2,2));
     }
 }
