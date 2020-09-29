@@ -1,6 +1,8 @@
+package ru.mirea.lab10;
+
 public class Main {
     public static void main(String[] args) {
-        CommonArray<Object>a=new CommonArray<Object>();
+        CommonArray<Object> a=new CommonArray<Object>();
         Object arr[]= new Object[4];
         arr[0]=145;
         arr[1]=1.45;

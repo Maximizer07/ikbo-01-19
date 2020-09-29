@@ -1,3 +1,5 @@
+package ru.mirea.lab10;
+
 public class CommonArray<E> {
     private E [] a;
 
